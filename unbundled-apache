@@ -1,4 +1,3 @@
-The existence of this file in external/apache-http implies
-that the version of the library here is unbundled. The build system
-can test for its existence to decide whether or not to add a
-dependency to this library.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40a10334273419550905e0b47d239cf2baefb9da7479a9c95485e064e8a4c613
+size 216
